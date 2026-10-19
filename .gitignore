@@ -1,0 +1,4 @@
+  *.npz
+  *.pt
+  *.npy
+  submission_v3.csv
